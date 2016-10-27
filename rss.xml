@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom"> 
+	<channel> 
+	<atom:link href="http://youtube-queue.website/rss.xml" rel="self" type="application/rss+xml" /> 
+
+	<title>Youtube Queue</title>
+	<description>Quickly Queue up videos from youtube | Watch videos while you continue to search. No account needed just queue and watch.</description>
+	<link>http://youtube-queue.website/</link>
+	<category>Youtube, Videos, Queue up videos, Technology</category>
+	<language>en-us</language>
+
+	<item>
+		<title>Best About Us</title>
+		<description>Forced in the desperation to play video and music. Youtube-Queue site is born</description>
+		<link>http://youtube-queue.website/main/about</link>
+		<category>Youtube</category>
+		<category>Technology</category>
+	</item>
+
+	<item>
+		<title>Reach Us</title>
+		<description>Feel free to contact us</description>
+		<link>http://youtube-queue.website/main/contact</link>
+		<category>Youtube</category>
+		<category>Technology</category>
+	</item>
+
+</channel>
+
+</rss>
